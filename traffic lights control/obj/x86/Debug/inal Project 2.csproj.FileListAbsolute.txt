@@ -1,0 +1,9 @@
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\bin\Debug\inal Project 2.exe.config
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\bin\Debug\inal Project 2.exe
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\bin\Debug\inal Project 2.pdb
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal Project 2.csprojResolveAssemblyReference.cache
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal_Project_2.Form1.resources
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal_Project_2.Properties.Resources.resources
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal Project 2.csproj.GenerateResource.Cache
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal Project 2.exe
+C:\Users\ADMIN\Desktop\THTBNV\cuoiki\inal Project 2\inal Project 2\obj\x86\Debug\inal Project 2.pdb
